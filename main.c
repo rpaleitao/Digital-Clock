@@ -36,4 +36,6 @@ int main(){
         //Clear the screen
         system("cls");
     }
+
+    return 0;
 }
